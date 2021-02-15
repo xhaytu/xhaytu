@@ -3,6 +3,7 @@
 ✨ I'm a magician - some people say, I do not exist...
 
 👀 I’m interested in gaming, OOP and functional programming.
+
 🌱 I’m currently working for an IT company.
 
 📫 How to reach me? How about - letting it be? ✨
